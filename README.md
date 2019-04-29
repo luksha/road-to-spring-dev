@@ -1,4 +1,4 @@
-# Road to Spring developer
+# Road to Spring development
 
 What I would tell myself at the beginning of the journey to Spring development.
 
@@ -11,3 +11,8 @@ These are some best practices and articles:
   - Java best practices
   - [Testing testing ...](https://docs.spring.io/spring/docs/current/spring-framework-reference/testing.html) - Always make sure  you write unit and integration 
   - [JHipster project](https://www.jhipster.tech/) - Learn from the best and heck some open source projects (try to contribute) 
+
+
+p.s. Nice articles you should always keep in you mind:
+- https://medium.com/swlh/how-to-be-an-insanely-good-developer-49e48be03730
+- https://blog.newrelic.com/engineering/8-ways-become-a-better-coder/
