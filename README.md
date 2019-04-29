@@ -10,7 +10,7 @@ These are some best practices and articles:
   - Follow great Spring developers on Tweeter [@e4developer](https://twitter.com/e4developer) [@starbuxman](https://twitter.com/starbuxman)
   - Java best practices
   - [Testing testing ...](https://docs.spring.io/spring/docs/current/spring-framework-reference/testing.html) - Always make sure  you write unit and integration 
-  - [JHipster project](https://www.jhipster.tech/) - Learn from the best and heck some open source projects (try to contribute) 
+  - [JHipster project](https://www.jhipster.tech/) - Learn from the best and check some open source projects (try to contribute ;) ) 
 
 
 p.s. Nice articles you should always keep in you mind:
